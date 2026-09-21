@@ -8,9 +8,9 @@
 
 ### 問い合わせ先
 
-**不具合の報告・要望は GitHub の issue でお願いします。**
+**不具合の報告・要望は、このページと同じリポジトリの issue でお願いします**（公開されています）。
 
-- https://github.com/bossagyu/volstra/issues
+- https://github.com/bossagyu/volstra-legal/issues
 
 ### よくある質問
 
@@ -32,9 +32,9 @@ A. 筋肉ごとの「有効セット数」と「回復度」から算出して�
 
 ### Contact
 
-**Please report bugs and requests as GitHub issues:**
+**Please report bugs and requests as issues in this (public) repository:**
 
-- https://github.com/bossagyu/volstra/issues
+- https://github.com/bossagyu/volstra-legal/issues
 
 ### FAQ
 
