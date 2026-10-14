@@ -1,6 +1,6 @@
 # プライバシーポリシー / Privacy Policy
 
-**最終更新: 2026-09-20**（Last updated: 2026-09-20）
+**最終更新: 2026-10-08**（Last updated: 2026-10-08）
 
 ---
 
@@ -18,7 +18,9 @@
 
 ### 端末の機能へのアクセス
 
-**要求しません。**カメラ、位置情報、連絡先、写真、マイク、通知、ヘルスケアのいずれにもアクセスしません。
+**通知のみ、許可を求めます。**休憩タイマーが終わったことをお知らせするために使います。アプリを閉じている間もお知らせできるようにするためのもので、**通知の内容は端末内で作られ、外部に送信されません。**許可しなくてもアプリのすべての機能が使えます（アプリを開いている間は振動でお知らせします）。
+
+カメラ、位置情報、連絡先、写真、マイク、ヘルスケアには**アクセスしません。**
 
 ### アカウント
 
@@ -52,7 +54,9 @@ All data the app handles — workout records, body weight, custom exercises, tem
 
 ### Device capabilities
 
-**None requested.** The app does not access the camera, location, contacts, photos, microphone, notifications or health data.
+**Notifications only, with your permission.** Used to tell you when the rest timer has finished, including while the app is closed. **The notification is composed on your device and is never sent anywhere.** You can decline; every feature of the app still works (while the app is open, it vibrates instead).
+
+The app does not access the camera, location, contacts, photos, microphone or health data.
 
 ### Accounts
 
