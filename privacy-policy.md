@@ -1,6 +1,6 @@
 # プライバシーポリシー / Privacy Policy
 
-**最終更新: 2026-10-08**（Last updated: 2026-10-08）
+**最終更新: 2026-11-24**（Last updated: 2026-11-24）
 
 ---
 
@@ -10,7 +10,7 @@
 
 **Volstra は、利用者の情報を一切収集しません。**
 
-アプリが扱うデータ（トレーニングの記録、体重、カスタム種目、テンプレート、設定）は、**すべて端末内のデータベースにのみ保存されます**。開発者を含む第三者がそれを参照することはできません。
+アプリが扱うデータ（トレーニングの記録、体重、カスタム種目、テンプレート、種目ごとのメモ、設定）は、**アプリが端末の中にだけ保存します**。開発者がそれを見ることはできません。利用者が自分で書き出し・共有したデータと、端末のバックアップについては、下の「データの削除」に書いています。
 
 ### 外部送信
 
@@ -18,7 +18,11 @@
 
 ### 端末の機能へのアクセス
 
-**通知のみ、許可を求めます。**休憩タイマーが終わったことをお知らせするために使います。アプリを閉じている間もお知らせできるようにするためのもので、**通知の内容は端末内で作られ、外部に送信されません。**許可しなくてもアプリのすべての機能が使えます（アプリを開いている間は振動でお知らせします）。
+**通知のみ、許可を求めます。**次のお知らせに使います。どれも、設定の「通知」でオン・オフを選べます。
+- 休憩タイマーが終わったこと（アプリを閉じている間も）
+- 毎日の知らせ（今日のメニュー・鍛えてよくなった部位・しばらく記録がないこと。オンにした場合のみ。1 日分を 1 通にまとめて、選んだ時刻に届きます）
+
+**通知の内容は端末内で作られ、外部に送信されません。**許可しなくても、通知でのお知らせ以外のすべての機能が使えます。許可は、休憩の通知がオンのときに休憩タイマーが初めて始まったとき、毎日の知らせをオンにしたとき、または設定の「通知」で「いま許可する」を押したときにお尋ねします。
 
 カメラ、位置情報、連絡先、写真、マイク、ヘルスケアには**アクセスしません。**
 
@@ -28,7 +32,11 @@
 
 ### データの削除
 
-**アプリを削除すると、記録も同時に削除されます。**端末外に控えは残りません。
+**アプリを削除すると、端末の中の記録も同時に削除されます。**ただし、次のものはアプリを削除しても残ります。
+- 利用者が自分で書き出したデータ（設定の「データを書き出す」で作ったファイル）と、共有した画像。保存した場所・共有した先に残ります
+- 端末のバックアップ（iCloud バックアップや、パソコンへのバックアップ）を使っている場合に、そのバックアップに入ったアプリのデータ。バックアップの扱いは、端末の設定で決まります
+
+これらを除いて、端末の外に控えは残りません。
 
 ### 子どものプライバシー
 
@@ -46,7 +54,7 @@
 
 **Volstra collects no personal information.**
 
-All data the app handles — workout records, body weight, custom exercises, templates and settings — is **stored only in a database on your device**. Neither the developer nor any third party can access it.
+All data the app handles — workout records, body weight, custom exercises, templates, notes on exercises and settings — is **stored by the app only on your device**. The developer cannot access it. For data you choose to export or share, and for device backups, see "Deleting your data" below.
 
 ### Data transmission
 
@@ -54,7 +62,11 @@ All data the app handles — workout records, body weight, custom exercises, tem
 
 ### Device capabilities
 
-**Notifications only, with your permission.** Used to tell you when the rest timer has finished, including while the app is closed. **The notification is composed on your device and is never sent anywhere.** You can decline; every feature of the app still works (while the app is open, it vibrates instead).
+**Notifications only, with your permission.** Used for the following, each of which you can turn on or off under Settings > Notifications:
+- telling you when the rest timer has finished, including while the app is closed
+- daily reminders (today's menu, muscles ready to train, and no workout for a while; only if you turn them on; combined into one notification a day, sent at the time you choose)
+
+**Notifications are composed on your device and are never sent anywhere.** You can decline; every feature except the notifications themselves still works. We ask for permission when the rest timer first starts with rest notifications turned on, when you turn on a daily reminder, or when you tap "Allow now" under Settings > Notifications.
 
 The app does not access the camera, location, contacts, photos, microphone or health data.
 
@@ -64,7 +76,11 @@ The app does not access the camera, location, contacts, photos, microphone or he
 
 ### Deleting your data
 
-**Deleting the app deletes your records with it.** No copy is retained anywhere else.
+**Deleting the app deletes the records on your device with it.** The following remain even after you delete the app:
+- data you exported yourself (a file made with "Export data" in Settings) and images you shared. These stay wherever you saved or sent them
+- if you use device backups (iCloud Backup or a backup to a computer), the app data included in those backups. How backups are kept is controlled by your device settings
+
+Apart from these, no copy is retained anywhere else.
 
 ### Children's privacy
 
